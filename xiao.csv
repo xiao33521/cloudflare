@@ -1,8 +1,4 @@
 ﻿IP address,Colo,Mean Respond Time,Mean Download Speed
-"1.0.0.0
-","","Timeout","Error"
-"1.1.1.0
-","","Timeout","Error"
 "104.16.32.0
 ","SIN","131.0ms (warm-up)","6674.2 KB/s"
 "104.16.64.0
@@ -179,12 +175,6 @@
 ","SIN","118.0ms (warm-up)","5783.4 KB/s"
 "162.159.160.0
 ","FRA","686.0ms (warm-up)","4452.3 KB/s"
-"162.159.200.0
-","","Timeout","Error"
-"162.159.224.0
-","","Timeout","Error"
-"172.64.36.0
-","","Timeout","Error"
 "173.245.49.0
 ","SIN","117.0ms (warm-up)","9760.7 KB/s"
 "190.93.244.0
